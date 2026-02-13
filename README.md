@@ -180,7 +180,7 @@ Firewall rules effectively controlled traffic
 
 ## 🔹 OS Detection
 
-![OS Detection](nmap-OS.png)
+![OS Detection](nmaop-o.png)
 
 ---
 
