@@ -166,20 +166,40 @@ TCP handshake process clearly observed
 Vulnerability scripts detected exploitable services
 
 Firewall rules effectively controlled traffic
+## 🔹 Nmap SYN Scan
 
-📂 Repository Structure
-TASK-2-Network-Security-Scanning
-│
-├── Screenshots/
-│   ├── recon.png
-│   ├── nmap_scan.png
-│   ├── vuln_scan.png
-│   ├── wireshark_capture.png
-│   └── firewall_rules.png
-│
-├── scan_report.md
-├── vulnerability_analysis.md
-└── README.md
+![Nmap SYN Scan]()
+
+---
+
+## 🔹 Service Version Detection
+
+![Service Scan](Screenshots/nmap_sV.png)
+
+---
+
+## 🔹 OS Detection
+
+![OS Detection](Screenshots/nmap_OS.png)
+
+---
+
+## 🔹 Vulnerability Scan
+
+![Vulnerability Scan](Screenshots/vuln_scan.png)
+
+---
+
+## 🔹 Wireshark Packet Capture
+
+![Wireshark Capture](Screenshots/wireshark_capture.png)
+
+---
+
+## 🔹 Firewall Rules
+
+![Firewall Rules](Screenshots/firewall_rules.png)
+
 
 🎥 Demonstration Video
 
