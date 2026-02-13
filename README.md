@@ -192,7 +192,7 @@ Firewall rules effectively controlled traffic
 
 ## 🔹 Wireshark Packet Capture
 
-![Wireshark Capture](wireshark_capture.pcappng)
+![Wireshark Capture](wire.png)
 
 ---
 
