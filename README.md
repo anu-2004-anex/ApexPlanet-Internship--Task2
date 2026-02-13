@@ -168,7 +168,7 @@ Vulnerability scripts detected exploitable services
 Firewall rules effectively controlled traffic
 ## 🔹 Nmap SYN Scan
 
-![Nmap SYN Scan]()
+![Nmap SYN Scan](nmaop-o.png)
 
 ---
 
