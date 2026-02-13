@@ -168,37 +168,37 @@ Vulnerability scripts detected exploitable services
 Firewall rules effectively controlled traffic
 ## 🔹 Nmap SYN Scan
 
-![Nmap SYN Scan](nmaop-o.png)
+![Nmap SYN Scan](nmaop-sS.png)
 
 ---
 
 ## 🔹 Service Version Detection
 
-![Service Scan](Screenshots/nmap_sV.png)
+![Service Scan](nmap-sV.png)
 
 ---
 
 ## 🔹 OS Detection
 
-![OS Detection](Screenshots/nmap_OS.png)
+![OS Detection](nmap-OS.png)
 
 ---
 
 ## 🔹 Vulnerability Scan
 
-![Vulnerability Scan](Screenshots/vuln_scan.png)
+![Vulnerability Scan](nmap-script.png)
 
 ---
 
 ## 🔹 Wireshark Packet Capture
 
-![Wireshark Capture](Screenshots/wireshark_capture.png)
+![Wireshark Capture](wireshark_capture.pcappng)
 
 ---
 
 ## 🔹 Firewall Rules
 
-![Firewall Rules](Screenshots/firewall_rules.png)
+![Firewall Rules](studiorule.png)
 
 
 🎥 Demonstration Video
